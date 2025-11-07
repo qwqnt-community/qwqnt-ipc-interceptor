@@ -30,7 +30,7 @@ IpcInterceptor.onIpcSend((...args) => {
 
 ## 使用本插件的 TypeScript 类型
 
-本插件提供了类型定义文件 [proxyIpcMessage.d.ts](/src/types/proxyIpcMessage.d.ts)，为了在 TypeScript 中获得类型提示，你需要手动将其拷贝到你的项目中。
+本插件提供了类型定义文件 [proxyIpcMessage.ts](/src/types/proxyIpcMessage.ts)，为了在 TypeScript 中获得类型提示，你需要手动将其拷贝到你的项目中。
 
 ### 构建方法
 
